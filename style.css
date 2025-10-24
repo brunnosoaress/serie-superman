@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(114, 109, 109);
+}
+
+#secao-canais img, #galeria-imagens img {
+    box-shadow: 0 0 10px 3px #fff;
+}
+
+#secao-temporadas div {
+    box-shadow: 0 0 10px 3px #cac4c4;
+}
+
+#rodape {
+    box-shadow: 0 10px 20px 5px #fff;
+}
+
